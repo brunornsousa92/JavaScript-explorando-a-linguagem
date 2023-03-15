@@ -1,0 +1,15 @@
+power shell:
+cd + arrastar a pasta // comando para abrir a pasta no power shell
+node + [nome do arquivo] + tab // comando para abrir o arquivo no power shell
+clear // limpa a tela do power shell
+
+visual code:
+alt + shift + seta para baixo // para duplicar uma linha de código
+ctrl + k + c // comenta um bloco de código
+ctrl + k + u  // descomenta um bloco de código
+alt + shift + f // faz a identação do código
+
+---------------------OUTROS COMANDOS------------------------------
+
+| (PIPE) = alt + 124
+\ (Barra Invertida) = alt + 92
